@@ -1,0 +1,8 @@
+﻿  Otogaleri Uygulamasi.cpp
+C:\Users\Furkan Ayakdaş\Desktop\otogaleri\Otogaleri Uygulamasi\Otogaleri Uygulamasi\Otogaleri Uygulamasi.cpp(51,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Furkan Ayakdaş\Desktop\otogaleri\Otogaleri Uygulamasi\Otogaleri Uygulamasi\Otogaleri Uygulamasi.cpp(63,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Furkan Ayakdaş\Desktop\otogaleri\Otogaleri Uygulamasi\Otogaleri Uygulamasi\Otogaleri Uygulamasi.cpp(77,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Furkan Ayakdaş\Desktop\otogaleri\Otogaleri Uygulamasi\Otogaleri Uygulamasi\Otogaleri Uygulamasi.cpp(88,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Furkan Ayakdaş\Desktop\otogaleri\Otogaleri Uygulamasi\Otogaleri Uygulamasi\Otogaleri Uygulamasi.cpp(170,7): warning C4101: 'karakter': unreferenced local variable
+C:\Users\Furkan Ayakdaş\Desktop\otogaleri\Otogaleri Uygulamasi\Otogaleri Uygulamasi\Otogaleri Uygulamasi.cpp(186,6): warning C4101: 'sayi': unreferenced local variable
+  Otogaleri Uygulamasi.vcxproj -> C:\Users\Furkan Ayakdaş\Desktop\otogaleri\Otogaleri Uygulamasi\x64\Debug\Otogaleri Uygulamasi.exe
