@@ -1,2 +1,2 @@
-# Otogaleri-uygulamasi
-Cift yonlu dairesel bagli liste ile
+
+With a doubly circular linked list
